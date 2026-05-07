@@ -9,7 +9,6 @@ import { store } from './store';
 function App() {
 
   return (
-    // 사용하지 않을 예정
     <Provider store={store}>
       <Display />
       <CountA />
