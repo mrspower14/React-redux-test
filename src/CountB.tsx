@@ -1,5 +1,5 @@
 import { useDispatch } from "react-redux";
-import { decrease } from "./store";
+import { decrease } from "./counterslice";
 
 export default function CountB() {
 

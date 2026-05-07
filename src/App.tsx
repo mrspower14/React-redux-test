@@ -10,9 +10,9 @@ function App() {
 
   return (
     <Provider store={store}>
-      <Display />
+      {/* <Display /> */}
       <CountA />
-      <CountB />
+      {/* <CountB /> */}
     </Provider>
   )
 }
